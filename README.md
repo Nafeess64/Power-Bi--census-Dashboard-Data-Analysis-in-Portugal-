@@ -1,0 +1,1 @@
+This Power BI project focuses on Portugal's census data, examining key indicators such as the foreign population, high study rate, normal population, residence rate, and unemployed rate. It provides insights into demographic trends, educational attainment, residency patterns, and employment status within the Portuguese population.
